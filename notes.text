@@ -1,0 +1,16 @@
+POST /api/members
+
+{
+	"name": "Bian Lee",
+	"role": "Software Engineer Intern",
+	"team": {
+		"id": 1
+	}
+}
+
+POST /api/teams
+
+{
+	"name": "MOB Squad",
+	"description": "Brokerage Processing Engine Team"
+}
