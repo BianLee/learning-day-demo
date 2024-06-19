@@ -28,4 +28,5 @@ public class HomeController {
     	model.put("teams", teams);
         return "home";
     }
+    
 }
